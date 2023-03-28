@@ -2,7 +2,6 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    background-color: #fafafa;
 }
 
 header {
@@ -19,7 +18,7 @@ header {
     flex-direction: column;
     text-align: center;
     
-#
+
 }
 #projects {
     border: solid 1px black;
