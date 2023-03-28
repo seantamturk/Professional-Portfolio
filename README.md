@@ -34,9 +34,9 @@ MIT License
 - Site navigation links
 
 ## Links
-- [Github]{https://github.com/seantamturk/Professional-Portfolio}
-- [Professional Portfolio]{https://seantamturk.github.io/Professional-Portfolio/}
-- [Linkedin]{https://www.linkedin.com/in/sean-tamturk-8253b722a/}
-- [Site Image](./assets/images/websitescreenshot)
+- [Github](https://github.com/seantamturk/Professional-Portfolio)
+- [Professional Portfolio](https://seantamturk.github.io/Professional-Portfolio/)
+- [Linkedin](https://www.linkedin.com/in/sean-tamturk-8253b722a/)
+- [Site Image](./assets/images/websitescreenshot.png)
 
 
