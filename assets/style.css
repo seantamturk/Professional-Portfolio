@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: #fafafa;
+}
+
+header {
+    padding: 20px;
+    font-family: 'HCo Whitney SSm','Helvetica Neue','Arial',sans-serif;
+    background-color: #ffffff;
+    color: #ffb71b;
+    border-bottom: 3px #eaeaea solid;
+}
+
+#sectionflex {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    
+#
+}
+#projects {
+    border: solid 1px black;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+    
+}
+
+.projectlinksimage {
+    width: 400px;
+    height: 300px;
+}
+
+header img {
+    width: 10%;
+}
